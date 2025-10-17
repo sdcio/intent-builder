@@ -2,11 +2,9 @@ module github.com/sdcio/intent-builder
 
 go 1.23.9
 
-replace github.com/sdcio/data-server => /home/mava/projects/data-server
-
 require (
 	github.com/c-bata/go-prompt v0.2.6
-	github.com/sdcio/data-server v0.0.59
+	github.com/sdcio/data-server v0.0.64
 	github.com/sdcio/sdc-protos v0.0.46
 	github.com/sirupsen/logrus v1.9.3
 	google.golang.org/grpc v1.75.1

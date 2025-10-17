@@ -178,6 +178,8 @@ github.com/rogpeppe/go-internal v1.12.0 h1:exVL4IDcn6na9z1rAb56Vxr+CgyK3nn3O+epU
 github.com/rogpeppe/go-internal v1.12.0/go.mod h1:E+RYuTGaKKdloAfM02xzb0FW3Paa99yedzYV+kq4uf4=
 github.com/sdcio/cache v0.0.38 h1:8meykZC/DAgzKI+R3GtZvTs0/OXWRCeNN5mxVKG0Ba8=
 github.com/sdcio/cache v0.0.38/go.mod h1:PHJd4pTmfFZBLdPohtXJAVBNmAKhhKdZHTi3MejGrk0=
+github.com/sdcio/data-server v0.0.64 h1:uqGghlpv32k2/BeLexcZYpd/IrOu3XeMhDipDlRj74M=
+github.com/sdcio/data-server v0.0.64/go.mod h1:/5ukmC+X6FzDiYKxhO/l7+NoFFxc+Rwmul0S5RAHNZc=
 github.com/sdcio/schema-server v0.0.33 h1:RTeQMIchynAPSQaf61CZBgYHCCpsyDLEAWJn+ZKImIo=
 github.com/sdcio/schema-server v0.0.33/go.mod h1:q8leN1KhRNTnnqf6yxvkDk5tFl6DAsHcl81usVgYpoI=
 github.com/sdcio/sdc-protos v0.0.46 h1:NsDdQrcPXPktLI7ZHBR6mA82AEYaFjdBYiLzJcuF55k=
